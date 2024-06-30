@@ -1,0 +1,8 @@
+name: VkEvents
+version: 1
+api: 5.0.0
+main: Taskovich\VkEvents\Main
+description: Простой плагин для интеграции с VK LongPoll.
+author: Taskovich
+website: "https://taskovich.pro"
+load: STARTUP

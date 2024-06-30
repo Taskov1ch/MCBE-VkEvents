@@ -1,0 +1,4 @@
+name: VkEventsExample
+version: 1
+api: 5.0.0
+main: Taskovich\VkEventsExample\Main
